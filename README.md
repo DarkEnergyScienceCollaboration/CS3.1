@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Define the cosmological simulation requirements
 
 Summary -- A document that maps the different data challenges into detailed simulation requirements with
 regard to simulation methodology, cosmological physics, fidelity, volume, mass resolution, and properties of
